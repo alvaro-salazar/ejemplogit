@@ -6,7 +6,7 @@
 package ejemplogit;
 
 /**
- *
+ * Esta clase es un ejemplo
  * @author Alvaro Salazar <alvaro@denkitronik.com>
  */
 public class Ejemplogit {
