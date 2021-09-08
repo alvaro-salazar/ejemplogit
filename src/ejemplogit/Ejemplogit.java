@@ -12,7 +12,7 @@ package ejemplogit;
 public class Ejemplogit {
 
     /**
-     * @param args the command line arguments
+     * @param 
      */
     public static void main(String[] args) {
         // TODO code application logic here
